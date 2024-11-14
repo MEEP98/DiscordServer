@@ -1,1 +1,1 @@
-<Dette html er udelukkende til Discord Serveren>
+Dette html er udelukkende til Discord Serveren
